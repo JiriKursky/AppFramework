@@ -1,0 +1,7 @@
+global_modules:
+  global_honeywell
+honeywell_comm:
+  class: HoneywellComm
+  module: honeywell_comm
+global_dependencies:    
+    - topeni_helpers
