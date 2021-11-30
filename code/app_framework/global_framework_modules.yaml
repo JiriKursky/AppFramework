@@ -1,0 +1,21 @@
+global_modules:
+- version
+- globals
+- helper_tools
+- globals_def
+- globals_def_custom
+- helper_types
+- private
+- sensor_entities
+- buttons
+- decorators
+- api_comm
+- module_register
+- basic_app
+- basic_app_sensors
+- task_register
+- apd_types
+- buffer_instance
+- entity_helpers
+- devices_interface
+- valve_interface
